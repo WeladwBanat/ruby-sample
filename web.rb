@@ -4,14 +4,6 @@ get '/' do
   "Hello, world"
 end
 
-<meta name="description" content="حصل على 100 الف متابع مجان" />
-<meta name="keywords" content="free followers, احصل على متابعين مجاناً, متابعين فيس بوك" />
-<meta property="og:title" content="حصل على 100 الف متابع مجان"/>
-<meta property="og:type" content="Web" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta property="og:site_name" content="حصل على 100 الف متابع مجان" />
-<meta property="og:description" content="احصل على 100 الف متابع مجانا" />
-<meta http-equiv="imagetoolbar" CONTENT="no">
 <link rel="shortcut icon" href="http://www.weladwbanat.net/up/do.php?imgf=w.b_rss-icon_22b3c.gifImM.png">
     <head>
         <title>Get 100K Followers For Free</title>
