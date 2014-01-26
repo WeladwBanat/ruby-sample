@@ -1,5 +1,3 @@
-require 'sinatra'
+<title> Noody Ahmed </title>
 
-get '/' do
-  "Noooooooooooooooooooooooooooody <3"
-end
+Nooooooooooooooody <3 :*
