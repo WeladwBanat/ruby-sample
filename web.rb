@@ -4,10 +4,6 @@ get '/' do
   "Hello, world"
 end
 
-
-   <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="description" content="حصل على 100 الف متابع مجان" />
 <meta name="keywords" content="free followers, احصل على متابعين مجاناً, متابعين فيس بوك" />
 <meta property="og:title" content="حصل على 100 الف متابع مجان"/>
