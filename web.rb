@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "Noody <3"
+  "Noody <3 :*"
 end
